@@ -1,0 +1,7 @@
+date,region,channel,revenue,cost,orders
+2026-05-01,North,Organic,1200,420,18
+2026-05-01,South,Paid,950,510,13
+2026-05-02,North,Paid,1430,620,21
+2026-05-02,West,Organic,870,300,11
+2026-05-03,South,Organic,1110,390,16
+2026-05-03,West,Paid,760,410,9
