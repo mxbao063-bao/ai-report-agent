@@ -40,3 +40,18 @@ Client gets:
 - README and demo command
 - One small revision after review
 - Optional scheduled GitHub Action
+
+## Custom Setup
+
+Need this adapted to your own spreadsheet or report format?
+
+I can customize this starter project for:
+
+- your CSV/Excel columns
+- your KPI/report template
+- Markdown, CSV, JSON, or HTML output
+- GitHub Actions or scheduled report runs
+
+Contact: `mxbao063@gmail.com` for a fixed-scope quote.
+
+More details: [`CUSTOMIZATION.md`](CUSTOMIZATION.md)
